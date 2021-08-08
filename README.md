@@ -1,7 +1,7 @@
 # Workout-Tracker-18
 This week's assignment required me to create a workout tracker. I was provided with the front end code. I had to create a Mongo database with a Mongoose schema and handle routes with Express.
 
-You can find the live website here:
+You can find the live website here: https://git.heroku.com/shielded-lake-97710.git
 
 ## User Story
 
