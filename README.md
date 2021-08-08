@@ -29,4 +29,4 @@ Please make sure to update tests as appropriate.
 I can be contacted by email at selise919@gmail.com
 
 ###### License
-[MyResume]https://bootstrapmade.com/license/
+[MIT](https://choosealicense.com/licenses/mit/)
